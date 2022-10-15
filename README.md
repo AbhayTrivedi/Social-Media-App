@@ -28,8 +28,8 @@ Social media is an interactive computer-mediated technology that facilitates the
 
 * Signup and Login
 * Create a profile.
-* Edit profile(Change Name, Profile picture, Self details, cover picture).
-* Share posts(Photos, Text posts).
+* Edit profile(Change Name, Profile picture, password).
+* Share posts.
 * Comment and Like on Posts.
 * Search other people’s profiles
 * Follow/unfollow other users.
@@ -37,7 +37,7 @@ Social media is an interactive computer-mediated technology that facilitates the
 
 ## Future Prospectus
 
-*UI can be improved.
-*The personal chat feature can be added.
-*Chat Bot feature can also be implemented.
-*User stories feature can be added.
+* UI can be improved.
+* The personal chat feature can be added.
+* Chat Bot feature can also be implemented.
+* User stories feature can be added.
