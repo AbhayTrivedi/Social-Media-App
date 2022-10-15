@@ -9,6 +9,10 @@
   },
   "author": "Abhay",
   "license": "ISC",
+  "engines": {
+    "node": "16.15.1",
+    "nmp": "8.19.1"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.32.0",
