@@ -28,7 +28,7 @@ Social media is an interactive computer-mediated technology that facilitates the
 
 * Signup and Login
 * Create a profile.
-* Edit profile(Change Name, Profile picture, email).
+* Edit profile(Change Name, Profile picture, Email).
 * Share posts.
 * Comment and Like on Posts.
 * Search other people’s profiles
