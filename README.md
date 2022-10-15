@@ -5,7 +5,7 @@ To see deployment go to: https://social-media-app-101.herokuapp.com/
 ## Description
 
 Social media is an interactive computer-mediated technology that facilitates the creation or sharing of information, ideas, career interests, and other forms of expression via virtual communities and networks.
-**Motivation:** we wanted to build an app that allows you to reach people locally, regionally, nationally, and internationally. To provide a platform where people can connect with people around the world. To share their thoughts and get to know other cultures around the world.
+**Motivation:** I wanted to build an app that allows you to reach people locally, regionally, nationally, and internationally. To provide a platform where people can connect with people around the world. To share their thoughts and get to know other cultures around the world.
 
 ## Technologies used
 
