@@ -4,7 +4,7 @@
   "description": "A MERN social media application.",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon backend/server.js",
+    "dev": "node backend/server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "author": "Abhay",
